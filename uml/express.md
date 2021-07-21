@@ -4,7 +4,7 @@
 ![alt UML ](images/快递服务UseCase.jpg)
 
 ### 类图
-![alt UML ](images/快递服务CLass.jpg)
+![alt UML ](images/快递服务Class.jpg)
 
 ### 组件图
 ![alt UML ](images/快递服务Component.jpg)
