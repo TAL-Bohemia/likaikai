@@ -39,6 +39,8 @@
 * [单例模式](designPatterns/单例模式/README.md)
 * [工厂模式](designPatterns/工厂模式/README.md)
 * [建造者模式](designPatterns/建造者模式/README.md)
+* [原型模式](designPatterns/原型模式/README.md)
+* [适配器模式](designPatterns/适配器模式/README.md)
 
 ### 用例图
     怎么找出用例的参与者Actor？
